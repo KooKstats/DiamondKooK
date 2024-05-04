@@ -15,4 +15,4 @@ Welcome to DiamondKooK, my personal passion project. My name is Kohei, and this 
 To get started with DiamondKooK, clone this repo to your local machine using the following command:
 
 ```bash
-git clone https://github.com/KooK/DiamondKooK.git
+git clone https://github.com/KooKstats/DiamondKooK.git
